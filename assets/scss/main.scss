@@ -1,0 +1,14 @@
+//1ero los abstractos
+@import 'abstracts/_extend.scss';
+
+//BASE
+@import 'base/_reset.scss';
+@import 'base/_typography.scss';
+
+//_layout
+@import 'layout/_layout.scss';
+
+//
+
+//Vendor
+@import 'vendors/bootstrap-4-6-1/bootstrap.scss';
